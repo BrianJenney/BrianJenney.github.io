@@ -1,0 +1,26 @@
+* {
+  font-family: "roboto", sans-serif;
+  background-color: turquoise;
+  text-align: center;
+  list-style: none;
+  color: white;
+}
+
+img {
+  border-radius: 100%;
+  margin: 3em;
+}
+
+#fax {
+  font-size: 2em;
+  font-weight: bold;
+  color: white;
+  text-decoration: none;
+}
+
+.factoid {
+  font-size: 1.5em;
+  font-weight: bold;
+  color: wheat;
+  text-decoration: none;
+}
